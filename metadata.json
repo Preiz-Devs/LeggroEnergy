@@ -1,0 +1,6 @@
+{
+  "name": "Leggero Energy | Solar Solutions & Power Calculator",
+  "description": "Leggero Energy provides reliable solar solutions, inverter installation, lithium battery systems, HVAC, and professional appliance repairs. Use our instant solar power calculator to size your system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
